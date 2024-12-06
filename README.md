@@ -82,10 +82,15 @@ Dataset was modelled  to check for the relationships pattern between food catego
 ### scatter plots of the categories against one another to observe patterns and relationships. I generated visualizations for each pair of food categories:
 
 . [Beef vs Pork](./beef_vs_pork.html)
+
  [Beef vs Poultry](./beef_vs_poultry.html)
+ 
   [Beef vs Dairy](./beef_vs_dairy.html)
+  
    [Pork vs Poultry](./pork_vs_poultry.html)
+   
     [Pork vs Dairy](./pork_vs_dairy.html)
+    
     [Poultry vs Dairy](./poultry_vs_dairy.html)
 
 ## Forecasting:
