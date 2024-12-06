@@ -89,9 +89,9 @@ Dataset was modelled  to check for the relationships pattern between food catego
   
    [Pork vs Poultry](./pork_vs_poultry.html)
    
-    [Pork vs Dairy](./pork_vs_dairy.html)
+  [Pork vs Dairy](./pork_vs_dairy.html)
     
-    [Poultry vs Dairy](./poultry_vs_dairy.html)
+  [Poultry vs Dairy](./poultry_vs_dairy.html)
 
 ## Forecasting:
 1. ### Market Leaders:
