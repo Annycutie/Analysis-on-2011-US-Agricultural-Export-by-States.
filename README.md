@@ -46,22 +46,8 @@ The variations in beef, pork, and dairy production may hint at differing state p
 9. Total Exports:
 Aggregating these categories highlights disparities among states in their contributions to agricultural exports.
 
-These visualizations are used to generate more insights for the dataset.
-
-![Comparing pork quantities across states (1)](https://github.com/user-attachments/assets/a593b22e-7d3c-487f-9865-1a307cea9372)
-![Comparing total fruits quantities across states](https://github.com/user-attachments/assets/4d0c748a-aa13-4417-80ff-48eeb2d56902)
-![Comparing total veggies quantities across states](https://github.com/user-attachments/assets/29e77644-2255-4e23-afaa-60be5f6d8d19)
-![Comparing wheat quantities across states](https://github.com/user-attachments/assets/fecb426b-5ae7-4e82-9b0b-6fc49608b5d3)
-![Comparing fresh veggies quantities across states](https://github.com/user-attachments/assets/f5fa89e2-77ef-4733-9bcc-130563b23f5f)
-![Comparing processed fruits quantities across states](https://github.com/user-attachments/assets/e2265919-b462-4d06-815b-42c1e8531e92)
-![Comparing fresh fruits quantities across states](https://github.com/user-attachments/assets/543a9f85-1c04-48a6-8fa6-17947096227f)
-![Comparing dairy quantities across states](https://github.com/user-attachments/assets/267a2b68-f91e-47a4-bf91-fcf4ae90bdd8)
-![Comparing pork quantities across states](https://github.com/user-attachments/assets/8deb7bd2-ff10-4558-91df-850722b4032a)
-![Comparing beef quantities across states](https://github.com/user-attachments/assets/293d8178-f214-412b-87e9-728f4c07b045)
-![Comparing cotton quantities across states](https://github.com/user-attachments/assets/c44ac2b3-bac3-4982-abf9-89c10dacee78)
-![Comparing corn quantities across states](https://github.com/user-attachments/assets/67b185f2-c62f-4e47-a099-741a99cf5be2)
-![Comparing processed veggies quantities across states](https://github.com/user-attachments/assets/50fa03a3-09ed-404f-b0fd-985ac4b2a0d9)
-![Comparing poultry quantities across states](https://github.com/user-attachments/assets/4b879c21-ccc9-4f85-8724-df5afe646d22)
+The visualizations generated for this data analysis are used to generate more insights for the dataset.
+The visuals are attached as PowerPoint slides along side this report.
 
 Forecast:
 1. Market Leaders:
